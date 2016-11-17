@@ -10,7 +10,7 @@
         "spec": "latest",
         "type": "tag"
       },
-      "E:\\fileService"
+      "E:\\simple_fileuploader"
     ]
   ],
   "_from": "angular-file-upload@latest",
@@ -45,7 +45,7 @@
   "_shasum": "2f953d01701d6b875e2666d24184de2e8f6e14bc",
   "_shrinkwrap": null,
   "_spec": "angular-file-upload",
-  "_where": "E:\\fileService",
+  "_where": "E:\\simple_fileuploader",
   "author": {
     "name": "nerv",
     "url": "https://github.com/nervgh"
